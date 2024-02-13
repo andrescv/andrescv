@@ -1,6 +1,4 @@
-<h1 align="center">
-  Andrés Castellanos
-</h1>
+# Andrés Castellanos
 
 Hi there 👋, I am a senior software engineer, passionate about state-of-the-art technologies. I consider myself highly adaptable and a fast learner with a range of deep technical skills. I love traveling and being exposed to different cultures.
 
