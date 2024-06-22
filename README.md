@@ -5,14 +5,11 @@ Hi there 👋, I am a senior software engineer, passionate about state-of-the-ar
 ## This week I spent my time on:
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ## My Stats
 
-<br/>
-<p align="left">
-  <a href="https://andrescv.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andrescv&show_icons=true&theme=onedark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrescv&theme=onedark&hide_border=true" />
-  </a>
-</p>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=andrescv&show_icons=true&theme=onedark&hide_border=true&card_width=495" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=andrescv&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" />
