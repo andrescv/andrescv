@@ -6,6 +6,10 @@ Hi there 👋, I am a senior software engineer, passionate about state-of-the-ar
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## My Stats
