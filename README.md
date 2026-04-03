@@ -7,11 +7,11 @@ Hi there 👋, I am a senior software engineer, passionate about state-of-the-ar
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   27 hrs 46 mins        ████████████████████▒░░░░   81.05 %
-JavaScript   2 hrs 37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-JSON         1 hr                  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Markdown     37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Bash         34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TypeScript   33 hrs 46 mins        █████████████████████░░░░   83.39 %
+JavaScript   2 hrs 25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+JSON         1 hr 21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Markdown     43 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Other        36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
