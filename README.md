@@ -7,11 +7,11 @@ Hi there 👋, I am a senior software engineer, passionate about state-of-the-ar
 <!--START_SECTION:waka-->
 
 ```txt
-Python        28 hrs 9 mins         █████████████████▓░░░░░░░   70.01 %
-TypeScript    6 hrs 17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-Terraform     1 hr 37 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-JavaScript    38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Markdown      37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Python       25 hrs 13 mins        ██████████████████▓░░░░░░   74.87 %
+TypeScript   4 hrs 5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+YAML         56 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+JavaScript   44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+TOML         39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
